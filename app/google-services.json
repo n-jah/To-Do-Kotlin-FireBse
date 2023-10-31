@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975880231266",
+    "project_id": "to-do-f5820",
+    "storage_bucket": "to-do-f5820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975880231266:android:4deeedf070b268e144743b",
+        "android_client_info": {
+          "package_name": "com.nja7.to_do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAXbXRSPNy2SLl86HUKXXjtbEwEuqGvAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
