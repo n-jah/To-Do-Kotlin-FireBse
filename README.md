@@ -40,3 +40,4 @@ If you are an Android developer, I recommend that you:
 - Test your code thoroughly on different devices and with different users. This will help you to identify and fix bugs before they reach your users.
 - Get feedback from other developers. Once you have tested your app, ask other developers to give you feedback. This feedback can help you to improve your app before you publish it.
 
+The list that I took the design from and the reference code : https://www.youtube.com/playlist?list=PLhhNsarqV6MQrlXyjuaLJf__takk51_d-
